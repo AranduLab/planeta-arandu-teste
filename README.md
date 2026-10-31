@@ -18,3 +18,19 @@ Alfabetização · 1º ano · as letras E e A.
 - A tela "Para o professor" tem o plano de aula.
 
 As figuras dos bichos elefante, zebra, abelha, jacaré, ovelha e coelho, e o cenário, ainda são provisórios.
+
+## O Piquenique do 0 e do 1 (MAT-004)
+
+Matemática · 1º ano · os números 0 e 1.
+
+- Jogo: [`jogos/mat/piquenique-0-e-1/`](jogos/mat/piquenique-0-e-1/)
+- Missões:
+  1. Traçar o 1 com o dedo e tocar nos 1.
+  2. O mesmo com o 0.
+  3. Quantos tem? Olhar o prato, a tigela, o lago, a toalha ou o céu e tocar no 0 ou no 1.
+  4. Missão final: historinhas em que algo chega ou vai embora, e a criança diz quantos ficaram.
+- Habilidades da BNCC: EF01MA01, EF01MA02, EF01MA04, EF01MA08.
+- Mesmo formato do ALF-011: HTML único, precisa só do `gsap.min.js` da mesma pasta e funciona sem internet.
+- A tela "Para o professor" tem o plano de aula.
+
+O cenário do piquenique ainda é provisório.

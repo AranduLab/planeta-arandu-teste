@@ -15,7 +15,8 @@
   a.jogo:focus-visible{outline:4px solid var(--sun);outline-offset:3px}
   .letras{display:flex;gap:6px;flex:none}
   .letras span{width:44px;height:52px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:32px;border:3px solid var(--ink)}
-  .e{background:#ffd3dc}.a{background:#c9efe9}
+  .e{background:#ffd3dc}.a{background:#c9efe9}.n0{background:#c9efe9}.n1{background:#ffe9a8}
+  main a.jogo+a.jogo{margin-top:20px}
   b{display:block;font-size:20px}
   small{opacity:.75}
 </style>
@@ -23,10 +24,14 @@
 <body>
 <main>
   <h1>Jogos Arandu Lab</h1>
-  <p>Áurea e Arandu · alfabetização em colagem</p>
+  <p>Áurea e Arandu · jogos em colagem para o 1º ano</p>
   <a class="jogo" href="jogos/alf/parque-dos-bichos/">
     <span class="letras"><span class="e">E</span><span class="a">A</span></span>
     <span><b>Parque dos Bichos</b><small>ALF-011 · as letras E e A · 1º ano</small></span>
+  </a>
+  <a class="jogo" href="jogos/mat/piquenique-0-e-1/">
+    <span class="letras"><span class="n0">0</span><span class="n1">1</span></span>
+    <span><b>O Piquenique do 0 e do 1</b><small>MAT-004 · os números 0 e 1 · 1º ano</small></span>
   </a>
 </main>
 </body>
