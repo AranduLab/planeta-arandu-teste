@@ -19,6 +19,21 @@ Alfabetização · 1º ano · as letras E e A.
 
 As figuras dos bichos elefante, zebra, abelha, jacaré, ovelha e coelho, e o cenário, ainda são provisórios.
 
+### Animal Park (versão em inglês)
+
+- Jogo: [`jogos/alf/parque-dos-bichos-en/`](jogos/alf/parque-dos-bichos-en/)
+- Mesmas artes, efeitos e música; falas, palavras e textos em inglês.
+- Palavras adaptadas ao inglês, com as figuras que o jogo já tinha:
+  - E: elephant, hen, bee, sheep, zebra;
+  - A: alligator, rabbit, hat, whale, star.
+- Missão 3 virou "The missing letter" (também tem HAT e STAR, que não são bichos). A missão final tem quatro palavras: BEE, ALLIGATOR, SHEEP e ELEPHANT, esta com três letras faltando.
+- Vozes geradas no ElevenLabs (02/11/2026), no fluxo "Parque dos Bichos — vozes em inglês":
+  - Áurea: voz Myriam;
+  - Arandu: voz Teddy Twinkle.
+- No roteiro, a letra A aparece escrita em IPA (`/eɪ/`), para a voz dizer o nome da letra e não o artigo "a".
+- As chaves das imagens e dos sons continuam em português (por exemplo, `w_galinha` é "Hen!").
+- A tela "For the teacher" está em inglês. A BNCC só traz Língua Inglesa a partir do 6º ano, então ela não lista habilidades.
+
 ## O Piquenique do 0 e do 1 (MAT-004)
 
 Matemática · 1º ano · os números 0 e 1.
